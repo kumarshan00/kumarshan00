@@ -14,7 +14,7 @@
 
 - 📫 Reach me via Mail: **saurabhpandey12112002@gmail.com**
 
-- 📄 My Resume: [https://saurabhweb.netlify.app/Doc/resume_saurabh.pdf](https://saurabhweb.netlify.app/Doc/resume_saurabh.pdf)
+- 📄 My Resume: [https://saurabhweb.netlify.app/Doc/resume_saurabh.pdf](https://saurabhweb.netlify.app/Doc/resume_saurabh.pdf)(Password PDF: 12112002)
 
 - ⚡ Fun fact: **I think I'm Funny.**
 
