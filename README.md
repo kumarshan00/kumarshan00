@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Saurabh Pandey</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AchingZestyFinnishspitz-mobile.jpg">
